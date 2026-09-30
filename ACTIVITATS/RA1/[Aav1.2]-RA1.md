@@ -11,11 +11,10 @@ Aquesta activitat s'avalua amb APTE / NO APTE.
 ## Enunciat
 
 1. Clona el repositori del curs que t'ha indicat el professor (`git clone <url>`).
-2. Dins la teva carpeta personal, copia-hi el fitxer `activitat1_1.py` de l'activitat anterior.
-3. Crea un fitxer `.gitignore` que exclogui la carpeta `__pycache__/` i els fitxers `.pyc`.
-4. Fes `git add`, `git commit -m "..."` i `git push` dels canvis.
-5. Comprova a la pàgina web de GitHub que els fitxers hi apareixen correctament.
-6. Executa `git log` i anota quantes línies de sortida (commits) hi ha.
+2. Dins la teva carpeta personal, crea una carpeta de nom **ACTIVITATS** i  copia-hi el fitxer `activitat1_1.py` de l'activitat anterior.
+3. Fes `git add`, `git commit -m "missatge"` i `git push` dels canvis.
+4. Comprova a la pàgina web de GitHub que els fitxers hi apareixen correctament.
+5. Executa `git log` i anota quantes línies de sortida (commits) hi ha.
 
 ## Depuració amb VSCode
 

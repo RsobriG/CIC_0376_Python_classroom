@@ -28,10 +28,10 @@ print("Línia 3")
 ```
 
 1. Obre el fitxer a VSCode, posa un breakpoint a la primera línia i executa amb `F5`.
-2. Fixa't en el missatge d'error exacte que dona el depurador/la consola i en quina línia assenyala.
+2. Fixa't en el missatge d'error exacte que dona el depurador/la consola i en quina línia assenyala. **Fes una captura de la terminal!!**
 3. Corregeix la indentació perquè les tres línies s'executin correctament.
 4. Explica per escrit (2-3 línies) per què Python és tan estricte amb la indentació, a diferència d'altres llenguatges.
 
 ## Com entregar-ho
 
-Fitxer `.py` amb tots els exercicis i una captura de pantalla del depurador mostrant l'`IndentationError` abans de corregir-lo.
+Enllaç del repositori teu personal. En aquest repositori ha d'haver-hi el fitxer `.py` amb tots els exercicis i una captura de pantalla del depurador mostrant l'`IndentationError` abans de corregir-lo.

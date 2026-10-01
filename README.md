@@ -1,2 +1,5 @@
 # CIC_0376_Python
-Curs de Python per ASIX de la fundació CIC
+Curs de Python per ASIX de la fundació CIClsdkhjashg
+sdgjasdkjg
+ksajdbffgk
+

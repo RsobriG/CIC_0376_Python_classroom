@@ -21,7 +21,7 @@ Practicar operadors aritmètics, de comparació i lògics, i la precedència ent
 
 1. Calcula i mostra el resultat de `17 // 5`, `17 % 5` i `17 / 5`. Explica la diferència entre els tres.
 2. Calcula `-17 // 5` i `-17 % 5`. Compara amb l'exercici anterior: què canvia amb un operand negatiu?
-3. Declara `a = 5`, `b = 10`, `c = 15` i, sense usar `if`, calcula en una sola expressió booleana si `a < b and b < c`. Mostra el resultat i el seu tipus.
+3. Declara `a = 5`, `b = 10`, `c = 15` i, usant els operadors de comparació, calcula en una sola expressió booleana si `a < b and b < c`. Mostra el resultat i el seu tipus.
 4. Calcula el resultat de `2 + 3 * 4 ** 2` sense usar parèntesis, i després reescriu la mateixa expressió (mateixos números i operadors: `2`, `+`, `3`, `*`, `4`, `**`, `2`) afegint-hi parèntesis perquè el resultat sigui `80`.
 5. Prova `5 > 3 and 2 > 4 or 1 == 1` i explica per escrit, pas a pas, com s'avalua (precedència: `and` abans que `or`).
 6. Segueix les passes de l'apartat **entregar amb git** abans de continuar amb la següent activitat.

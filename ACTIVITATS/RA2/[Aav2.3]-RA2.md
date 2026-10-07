@@ -1,14 +1,20 @@
 # Activitat 2.3 — Mètodes de strings i validacions
 
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA2. Aplica estructures condicionals i treballa amb cadenes de text (strings). |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | Nota de 0 a 100 |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Practicar els mètodes bàsics de strings (`upper`, `lower`, `strip`, `split`, `replace`, `find`, `in`) combinats amb condicionals per fer petites validacions de text.
 
-## Avaluació
-
-Aquesta activitat s'avalua amb APTE / NO APTE.
-
-## Enunciat
+## Activitat 1: Enunciat (35p)
 
 1. Donat `email = "  Usuari@Exemple.COM  "`:
    - Neteja els espais sobrants i converteix-lo tot a minúscules en una variable nova `email_net`.
@@ -24,7 +30,7 @@ Aquesta activitat s'avalua amb APTE / NO APTE.
 
 4. Sense executar-ho, digues què retorna `"Hola Món".find("xyz")` i per què **no** és un bon costum fer `if "Hola".find("x"):` per comprovar si `"x"` hi és (pista: pensa en quin valor booleà té `-1`).
 
-## Depuració amb VSCode
+## Activitat 2: Depuració amb VSCode (65p)
 
 Aquest codi hauria de comprovar si una contrasenya conté un espai i, si no en té cap, dir que és vàlida, però sempre diu que és invàlida encara que la contrasenya no tingui cap espai:
 
@@ -43,4 +49,4 @@ else:
 
 ## Com entregar-ho
 
-Un fitxer `.py` amb els 4 exercicis i el codi corregit, més una captura del "Debug Console" de VSCode mostrant el valor retornat per `password.find(" ")`.
+**Enllaç del teu repositori al moodle**. En aquest repositori ha d'haver-hi el/s fitxer/s `.py` amb els 4 exercicis i el codi corregit, més una captura del "Debug Console" de VSCode mostrant el valor retornat per `password.find(" ")`.

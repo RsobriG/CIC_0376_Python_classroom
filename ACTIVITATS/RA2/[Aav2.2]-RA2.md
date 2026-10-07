@@ -1,14 +1,20 @@
 # Activitat 2.2 — Condicionals niuats i primers passos amb strings
 
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA2. Aplica estructures condicionals i treballa amb cadenes de text (strings). |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | **Apte/No Apte** |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Practicar condicionals niuats i les operacions bàsiques d'indexació i slicing sobre strings.
 
-## Avaluació
-
-Aquesta activitat s'avalua amb APTE / NO APTE.
-
-## Enunciat
+## Activitat 1: Enunciat
 
 1. Escriu un condicional **niuat** que, donat un número enter `x`, imprimeixi:
    - `"Positiu i parell"` si és positiu i parell.
@@ -27,7 +33,7 @@ Aquesta activitat s'avalua amb APTE / NO APTE.
 
 4. Sense executar-ho, indica què creus que passarà amb `paraula[0] = "P"` (canviar el primer caràcter). Executa-ho per comprovar-ho i explica per escrit (1 línia) per què passa això.
 
-## Depuració amb VSCode
+## Activitat 2: Depuració amb VSCode
 
 Aquest codi hauria d'imprimir la primera lletra de `nom` en majúscules, però llança un error:
 
@@ -44,4 +50,4 @@ print(f"Inicial: {inicial}")
 
 ## Com entregar-ho
 
-Un fitxer `.py` amb els 4 exercicis i el codi corregit de la depuració, més una captura del depurador amb la finestra de variables oberta mostrant el valor de `nom[1]`.
+**Enllaç del teu repositori al moodle**. En aquest repositori ha d'haver-hi el/s fitxer/s `.py` amb els 4 exercicis i el codi corregit de la depuració, més una captura del depurador amb la finestra de variables oberta mostrant el valor de `nom[1]`.

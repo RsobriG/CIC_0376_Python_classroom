@@ -1,14 +1,20 @@
 # Activitat 2.1 — Decisions amb if / elif / else
 
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA2. Aplica estructures condicionals i treballa amb cadenes de text (strings). |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | **Apte/No Apte** |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Practicar l'escriptura i la lectura d'estructures condicionals amb operadors de comparació i lògics.
 
-## Avaluació
-
-Aquesta activitat s'avalua amb APTE / NO APTE.
-
-## Enunciat
+## Activitat 1: Enunciat
 
 1. Escriu un programa que demani l'edat d'una persona (`input()`, convertit a `int`) i imprimeixi:
    - `"Menor d'edat"` si té menys de 18 anys.
@@ -28,7 +34,7 @@ Aquesta activitat s'avalua amb APTE / NO APTE.
    print(a != b and a == int(b))
    ```
 
-## Depuració amb VSCode
+## Activitat 2: Depuració amb VSCode
 
 El següent codi hauria de classificar una nota (variable `nota = 5`) i sempre hauria d'imprimir `"Aprovat"` per a aquest valor, però imprimeix `"Suspès"`:
 
@@ -47,4 +53,4 @@ else:
 
 ## Com entregar-ho
 
-Un fitxer `.py` amb els 4 exercicis resolts i comentats, més una captura de pantalla del depurador de VSCode aturat al breakpoint amb la finestra de variables visible.
+**Enllaç del teu repositori al moodle**. En aquest repositori ha d'haver-hi el/s fitxer/s `.py` amb els 4 exercicis resolts i comentats, més una captura de pantalla del depurador de VSCode aturat al breakpoint amb la finestra de variables visible.

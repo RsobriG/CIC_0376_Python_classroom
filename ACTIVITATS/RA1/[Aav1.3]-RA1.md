@@ -34,7 +34,7 @@ print("Línia 3")
 
 ## Com entregar-ho
 
-Enllaç del repositori teu personal. En aquest repositori ha d'haver-hi el fitxer `.py` amb tots els exercicis i una captura de pantalla del depurador mostrant l'`IndentationError` abans de corregir-lo.
+**Enllaç del teu repositori al moodle**. En aquest repositori ha d'haver-hi el fitxer `.py` amb tots els exercicis i una captura de pantalla del depurador mostrant l'`IndentationError` abans de corregir-lo.
 
 **NO OBLIDAR** de pujar el fitxer de l'activitat al Github amb les comandes:
 

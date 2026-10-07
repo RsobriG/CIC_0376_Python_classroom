@@ -6,16 +6,13 @@
 | :--- | :--- |
 | **Mòdul** | 0376. Implementació d'aplicacions web |
 | **Resultat d'aprenentatge** | RA1. Prepara l'entorn de treball Python i coneix els fonaments bàsics del llenguatge. |
-| **Tipus** | Activitat d'aprenentatge, **Apte/No Apte** |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | **Apte/No Apte** |
 | **Modalitat** | Individual |
 
 ## Objectiu
 
 Practicar la sintaxi bàsica de Python: `print()`, comentaris i la importància de la indentació.
-
-## Avaluació
-
-Aquesta activitat s'avalua amb APTE / NO APTE.
 
 ## Activitat 1: Enunciat
 

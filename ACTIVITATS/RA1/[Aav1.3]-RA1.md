@@ -50,5 +50,5 @@ print("Línia 3")
 1. git status (per veure el/s fitxer/s en vermell) 
 2. git add <nom_fitxer>
 3. git status (per veure el/s fitxer/s en verd)
-4. git commit -m "missatge"
+4. git commit -m "Activitat X feta"
 5. git push

@@ -35,3 +35,11 @@ print("Línia 3")
 ## Com entregar-ho
 
 Enllaç del repositori teu personal. En aquest repositori ha d'haver-hi el fitxer `.py` amb tots els exercicis i una captura de pantalla del depurador mostrant l'`IndentationError` abans de corregir-lo.
+
+**NO OBLIDAR** de pujar el fitxer de l'activitat al Github amb les comandes:
+
+1. git status (per veure el/s fitxer/s en vermell) 
+2. git add <nom_fitxer>
+3. git status (per veure el/s fitxer/s en verd)
+4. git commit -m "missatge"
+5. git push

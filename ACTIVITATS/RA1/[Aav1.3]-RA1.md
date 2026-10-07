@@ -38,6 +38,7 @@ print("Línia 3")
 2. Fixa't en el missatge d'error exacte que dona el depurador/la consola i en quina línia assenyala. **Fes una captura de la terminal!!**
 3. Corregeix la indentació perquè les tres línies s'executin correctament.
 4. Explica per escrit (2-3 línies) per què Python és tan estricte amb la indentació, a diferència d'altres llenguatges.
+5. Segueix les passes de l'apartat **entregar amb git** abans de continuar amb la següent activitat.
 
 ## Com entregar-ho
 

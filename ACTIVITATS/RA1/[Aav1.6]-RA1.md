@@ -7,14 +7,17 @@
 | **Mòdul** | 0376. Implementació d'aplicacions web |
 | **Resultat d'aprenentatge** | RA1. Prepara l'entorn de treball Python i coneix els fonaments bàsics del llenguatge. |
 | **Tipus** | Activitat d'aprenentatge  |
-| **Avaluació** | **Apte/No Apte** |
+| **Avaluació** | nota de 0 a 100 |
 | **Modalitat** | Individual |
 
 ## Objectiu
 
 Practicar operadors aritmètics, de comparació i lògics, i la precedència entre ells.
 
-## Activitat 1: Enunciat
+## Condicions
+És obligatori realitzar les 2 activitats per a sumar les seves puntuacions entre elles.
+
+## Activitat 1: Enunciat (35 punts)
 
 1. Calcula i mostra el resultat de `17 // 5`, `17 % 5` i `17 / 5`. Explica la diferència entre els tres.
 2. Calcula `-17 // 5` i `-17 % 5`. Compara amb l'exercici anterior: què canvia amb un operand negatiu?
@@ -23,7 +26,7 @@ Practicar operadors aritmètics, de comparació i lògics, i la precedència ent
 5. Prova `5 > 3 and 2 > 4 or 1 == 1` i explica per escrit, pas a pas, com s'avalua (precedència: `and` abans que `or`).
 6. Segueix les passes de l'apartat **entregar amb git** abans de continuar amb la següent activitat.
 
-## Activitat 2: Depuració amb VSCode
+## Activitat 2: Depuració amb VSCode (65 punts)
 
 El següent codi hauria de calcular la mitjana de tres notes i dir si l'alumne aprova (mitjana >= 5),
 però sempre diu que no aprova encara que la mitjana sigui prou alta:

@@ -122,7 +122,7 @@ print("Hola)
 
 ---
 
-## Sessió S2 — GitHub i sistema d'entrega (21/09/2026)
+## Sessió S2 — GitHub i sistema d'entrega (21/09/2026)<
 
 * **Git:** sistema de control de versions. Guarda "fotografies" (commits) de l'estat del codi al llarg
   del temps.
@@ -166,6 +166,7 @@ git commit -m "canvis"
 ```
 
 ---
+
 
 ## Sessió S3 — Introducció a Python i print() (28/09/2026)
 
@@ -328,6 +329,17 @@ print(f"Preu: {preu:.2f} €")   # Preu: 3.14 €
 print(f"{preu:.2f}")   # '3.14'       → 2 és la precisió
 print(f"{preu:8.2f}")  # '    3.14'   → amplada 8, precisió 2 (omple amb espais a l'esquerra)
 ```
+La **precisió** no sempre vol dir "decimals", depèn del tipus:
+
+|Tipus|Què fa la precisió| Exemple| Resultat|
+|:---|:---|:---|:---|
+|f|nombre de decimals|f"{3.14159:.2f}"|3.14|
+|e|decimals de la mantissa|f"{31415.9:.2e}"|3.14e+04|
+|g|xifres significatives totals|f"{3.14159:.2g}"|3.1|
+|%|decimals del persentatge|f"{0.256:.1%}"|25.6% |
+|s|caràcters màxims del text|f"{'Barcelona':.3s}"|Bar|
+
+Amb text (s) la precisió talla el string. Amb números, arrodoneix.
  
 
 * Error típic — intentar concatenar directament un `str` amb un `int` (resultat d'`input()` sense

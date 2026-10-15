@@ -314,10 +314,21 @@ print(preu * 2)          # 9.0
 
 * Cas especial — les f-strings admeten especificadors de format, com arrodonir un decimal:
 
+{valor:[amplada][.precisió][tipus]}
+
+A **{Preu:.2f}**, el que va després dels dos punts (:) és l'**especificació de format**:  
+**Preu** indica lp'amplada.  
+**.** indica que el que ve a continuació és la **precisió**  
+**2** és el **nombre de decimals** que vosl mostrar  
+**f** és el tipus: _fixed-point_, és a dir, un número decimal normal (NO és notació cientifica). 
+
 ```python
 preu = 3.14159
 print(f"Preu: {preu:.2f} €")   # Preu: 3.14 €
+print(f"{preu:.2f}")   # '3.14'       → 2 és la precisió
+print(f"{preu:8.2f}")  # '    3.14'   → amplada 8, precisió 2 (omple amb espais a l'esquerra)
 ```
+ 
 
 * Error típic — intentar concatenar directament un `str` amb un `int` (resultat d'`input()` sense
   convertir prèviament, o qualsevol altra variable numèrica) llança `TypeError`:

@@ -1,5 +1,15 @@
 # Activitat 3.2 — Comptadors i acumuladors
 
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA3.  Aplica bucles `while` per repetir instruccions de manera controlada. |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | Apte / No Apte |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Construir i interpretar comptadors i acumuladors dins de bucles `while`.

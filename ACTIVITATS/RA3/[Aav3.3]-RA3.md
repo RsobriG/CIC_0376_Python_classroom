@@ -1,5 +1,15 @@
 # Activitat 3.3 — Validacions, `continue` i bucles infinits
 
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA3.  Aplica bucles `while` per repetir instruccions de manera controlada. |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | Nota de 0 a 100 |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Aplicar `while` per validar dades d'entrada i distingir el comportament de `break` i `continue`.
@@ -8,7 +18,7 @@ Aplicar `while` per validar dades d'entrada i distingir el comportament de `brea
 
 Aquesta activitat s'avalua amb APTE / NO APTE.
 
-## Enunciat
+## Enunciat (35p)
 
 Crea un fitxer `activitat_3_3.py`:
 
@@ -37,7 +47,7 @@ Crea un fitxer `activitat_3_3.py`:
            i += 1
    ```
 
-## Depuració amb VSCode
+## Depuració amb VSCode (65p)
 
 El codi següent hauria de demanar un número entre l'1 i el 5 fins que l'usuari l'encerti, però **no
 s'atura mai encara que l'usuari introdueixi el número correcte**:

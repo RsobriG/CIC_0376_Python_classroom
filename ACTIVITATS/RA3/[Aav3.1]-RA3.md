@@ -1,5 +1,16 @@
 # Activitat 3.1 — Comptar i repetir amb `while`
 
+
+## Fitxa de l'activitat
+
+| | |
+| :--- | :--- |
+| **Mòdul** | 0376. Implementació d'aplicacions web |
+| **Resultat d'aprenentatge** | RA3.  Aplica bucles `while` per repetir instruccions de manera controlada. |
+| **Tipus** | Activitat d'aprenentatge  |
+| **Avaluació** | Apte / No Apte |
+| **Modalitat** | Individual |
+
 ## Objectiu
 
 Practicar l'estructura bàsica d'un bucle `while`, predir quantes vegades s'executa i utilitzar `break`.
